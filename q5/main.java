@@ -1,5 +1,3 @@
-import java.util.concurrent.ExecutionException;
-
 class Q5 {
     public static void main (String[] args) {
         int total = 0;
