@@ -1,4 +1,4 @@
-class Q7 {
+class Q8 {
     public static void main (String[] args) {
         //Able was I, ere I saw Elba
         String literal = System.console().readLine("Bir cumle girin (Orn. Able was I, ere I saw Elba) :").trim();
